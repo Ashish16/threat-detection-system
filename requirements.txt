@@ -1,5 +1,6 @@
+Python 3.x
+Required Python libraries:
 numpy
 pandas
 scikit-learn
 scapy
-streamlit
